@@ -1,5 +1,5 @@
-##Credit_Card_Data_Analysis
-##Problem Statement
+## Credit_Card_Data_Analysis
+## Problem Statement
 The objective of this project is to analyze the credit card usage behavior and demographic details of customers. By exploring and examining various attributes, we aim to gain insights into customer behavior, financial metrics, and business performance of the credit card data. This analysis will help in understanding the key factors affecting customer satisfaction, delinquency rates, and overall profitability.
 
 ##Tools and Methods
